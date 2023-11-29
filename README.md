@@ -6,4 +6,4 @@ A qualidade dos dados é crucial para o sucesso do projeto, e a dataprep aborda 
 
 Sinta-se à vontade para contribuir, compartilhar suas experiências, ou sugerir melhorias.<br><br>
 
-🔗 [**Google Colab:** DataPrep - Problema de Churn](https://colab.research.google.com/github/wagnermoraesjr/Etapa_Feature_Engineering/blob/main/Notebook_Feature_Engineering_Problema_Churn_github.ipynb)
+🔗 [**Google Colab:** DataPrep - Problema de Churn](https://github.com/wagnermoraesjr/Etapa_DataPrep/blob/main/Notebook_DataPrep_Problema_Churn_github.ipynb)
